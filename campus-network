@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T15:02:11.892Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="lFYt6hlCQV1DIQr4W4ZB" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T15:03:18.688Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="i2uSEZWkTApM-Fs5kMK5" version="14.5.7" type="github">
   <diagram id="6UFG6FKul8ruWMFnsUm7" name="第 1 页">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gNPtdBr7iXl423zb672R-1" value="接入交换机" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="508" width="80" height="20" as="geometry" />
+          <mxGeometry x="56" y="508" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
